@@ -1,7 +1,8 @@
 # CS50 💻
 
 Ginelle's **solutions** to *Harvard's CS50* problem sets.
-⭐ Harder / challenge versions completed where available.
+
+Harder / challenge versions completed where available. ⭐
 
 ---
 
